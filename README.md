@@ -1,2 +1,2 @@
-Q: What did I learn about algorithms? How do I know it was algorithmic?
-A: I learned that 
+Q: What did I learn about algorithms? How do I know solving it was algorithmic? What is an algorithm to you?
+A: I learned that even when you are performing alogorithms and the cube doesn't even look close to be solved, the algorithms will unexpectedly make it solved, and it would be mind-blowing the first few times you solve it. It was algorithmic because every single move you make is part of an algorithm. So you solve specific parts of the cube using specific algorithms for those parts until you solve the whole cube. An algorithm to me is a sequence of operations that eventually lead to a problem being solved.
